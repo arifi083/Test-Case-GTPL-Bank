@@ -26,16 +26,21 @@ Total Bugs:64
 
 ![count vs status](https://user-images.githubusercontent.com/45961823/232033224-b52edccf-b783-4cd0-8851-a4a2e7434c5e.PNG)
 
-![pi chart](https://user-images.githubusercontent.com/45961823/232033250-0603864a-834c-4361-9e2b-008d51d007ba.PNG)
+![pi chart](https://user-images.githubusercontent.com/45961823/232033970-9a03533a-d4fe-4586-a360-00e246dddf5e.PNG)
+
 
 
 ### ---------------------------Severity----------------------
 
 # Bug Severity wise Report
 
-![severity](https://user-images.githubusercontent.com/45961823/232033327-3e022e7c-debe-42ce-9f73-0afd67931c9e.PNG)
+![severity](https://user-images.githubusercontent.com/45961823/232033996-ad4e7749-bfd1-4fb1-87bf-2bb19ccada6d.PNG)
 
-![pi chart](https://user-images.githubusercontent.com/45961823/232033373-e2e961d5-cac1-4104-ac75-0a041e47e1c9.PNG)
+![severity chart](https://user-images.githubusercontent.com/45961823/232034016-738a1586-2a4a-4eba-8cd7-2e3ec137fc7c.PNG)
+
+
+
+
 
 
 
